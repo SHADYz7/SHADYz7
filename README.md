@@ -1,12 +1,6 @@
 # 🚀 Welcome to Pratham Mehta's GitHub! 🚀
 
 <p align="center">
-  <a href="https://github.com/SHADYz7">
-    <img width="80%" alt="Hello, I'm Pratham Mehta | Data Science & AI Enthusiast" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHADYz7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 

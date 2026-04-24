@@ -1,14 +1,13 @@
 # 🚀 Welcome to Pratham Mehta's GitHub! 🚀
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/SHADYz7">
     <img width="80%" alt="Hello, I'm Pratham Mehta | Data Science & AI Enthusiast" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
   </a>
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mehtapratham2712/count.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHADYz7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -27,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtapratham2712&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pratham Mehta's GitHub stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtapratham2712&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
+| <a href="https://github.com/SHADYz7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SHADYz7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pratham Mehta's GitHub stats" /></a> | <a href="https://github.com/SHADYz7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADYz7&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
 ---
@@ -45,6 +44,7 @@
 
 Let's collaborate and create something amazing! 🤝
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SHADYz7)
 - [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mehtapratham2712@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham7/)
 
